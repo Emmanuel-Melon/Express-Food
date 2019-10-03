@@ -4,11 +4,11 @@ Express Food is a start up based in Paris, France that delivers high quality mea
 Express Food creates two main dishes and desserts everyday. Menu changes everyday and each menu could only have four items, two dishes and two desserts.  
 ## Objectives  
 ### Task: designing a database that'll include the following:
-- [ ] A list of clients
-- [ ] A list of the different daily menu items
-- [ ] A list of delivery people
+- [x] A list of clients
+- [x] A list of the different daily menu items
+- [x] A list of delivery people
 - [ ] An order history for each client  
 
 ### Deliverables:
-- [ ] UML diagrams that model the system's architecture
-- [ ] MySQL databsae filled with relevant data
+- [x] UML diagrams that model the system's architecture
+- [x] MySQL databsae filled with relevant data
